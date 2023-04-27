@@ -38,7 +38,12 @@ dependencies:
   sqflite: ^2.2.6
   path_provider: ^2.0.14
   http: ^0.13.5
+  equatable: ^2.0.5
+  flutter_bloc: ^8.1.2
   connectivity_plus: ^3.0.4
+  cloud_firestore: ^4.5.2
+  firebase_auth: ^4.4.2
+
 
 dev_dependencies:
   flutter_test:
